@@ -1,10 +1,22 @@
-# To do List
+# Build a To do List with Tests
 
 ## fac22 pre-Apprenticeship Project by Saira & Barbara
 
 <https://learn.foundersandcoders.com/course/syllabus/pre-app-11/project/>
 
-## Build a To do List with Tests
+## Current Tasks
+
+- [ ] General Housekeeping
+  - [ ] Prettier
+  - [ ] ESLint
+  - [ ] Host link
+- [ ] Testing
+  - [ ] set up files: test library, test-script-file
+  - [ ] paste test shells
+- [ ] Content, Story
+  - [ ] Research: How are To do lists programmed?
+  - [ ] How does list, create, tick-off, delete work? &rarr; what steps involved
+  - [ ] Layout: rough idea
 
 ## Description
 
