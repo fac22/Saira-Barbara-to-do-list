@@ -2,8 +2,6 @@
 
 ## fac22 pre-Apprenticeship Project by Saira & Barbara
 
-Task on <https://learn.foundersandcoders.com/course/syllabus/pre-app-11/project/>
-
 Hosted on <https://fac22.github.io/Saira-Barbara-to-do-list/>
 
 ## Current Tasks
@@ -13,14 +11,16 @@ Hosted on <https://fac22.github.io/Saira-Barbara-to-do-list/>
   - [x] ESLint
   - [x] Host link
 - [ ] Testing
-  - [ ] set up files: test library, test-script-file
-  - [ ] paste test shells
+  - [x] set up files: test library, test-script-file
+  - [x] paste test shells
 - [ ] Content, Story
   - [ ] Research: How are To do lists programmed?
   - [ ] How does list, create, tick-off, delete work? &rarr; what steps involved
   - [ ] Layout: rough idea
 
 ## Description
+
+<https://learn.foundersandcoders.com/course/syllabus/pre-app-11/project/>
 
 Your project this week is to build a to-do list tracker. It should allow users to **create, complete and delete tasks** from a list.
 
@@ -41,7 +41,7 @@ This is the minimum amount of testing required: you should **write additional te
   ```js
   test('Submitting a new task adds it to the list', () => {
     // test goes here
-  })
+  });
   ```
 
 - **Check things off** my list so that I can see what I’ve done
@@ -49,7 +49,7 @@ This is the minimum amount of testing required: you should **write additional te
   ```js
   test('Checking an entry marks it as complete', () => {
     // test goes here
-  })
+  });
   ```
 
 - **Delete** things from the list if I don’t need to do them anymore
@@ -57,7 +57,7 @@ This is the minimum amount of testing required: you should **write additional te
   ```js
   test('Deleting an entry removes it from the list', () => {
     // test goes here
-  })
+  });
   ```
 
 - As a motor-impaired user, I want to use all the features of the app without a mouse &rarr; **keyboard navigation**
@@ -68,7 +68,7 @@ This is the minimum amount of testing required: you should **write additional te
   ```js
   test('Toggling the filter hides completed tasks from the list', () => {
     // test goes here
-  })
+  });
   ```
 
 ## Acceptance Criteria
