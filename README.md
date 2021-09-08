@@ -2,14 +2,16 @@
 
 ## fac22 pre-Apprenticeship Project by Saira & Barbara
 
-<https://learn.foundersandcoders.com/course/syllabus/pre-app-11/project/>
+Task on <https://learn.foundersandcoders.com/course/syllabus/pre-app-11/project/>
+
+Hosted on <https://fac22.github.io/Saira-Barbara-to-do-list/>
 
 ## Current Tasks
 
 - [ ] General Housekeeping
-  - [ ] Prettier
-  - [ ] ESLint
-  - [ ] Host link
+  - [x] Prettier
+  - [x] ESLint
+  - [x] Host link
 - [ ] Testing
   - [ ] set up files: test library, test-script-file
   - [ ] paste test shells
@@ -38,24 +40,24 @@ This is the minimum amount of testing required: you should **write additional te
 
   ```js
   test('Submitting a new task adds it to the list', () => {
-  	// test goes here
-  });
+    // test goes here
+  })
   ```
 
 - **Check things off** my list so that I can see what I’ve done
 
   ```js
   test('Checking an entry marks it as complete', () => {
-  	// test goes here
-  });
+    // test goes here
+  })
   ```
 
 - **Delete** things from the list if I don’t need to do them anymore
 
   ```js
   test('Deleting an entry removes it from the list', () => {
-  	// test goes here
-  });
+    // test goes here
+  })
   ```
 
 - As a motor-impaired user, I want to use all the features of the app without a mouse &rarr; **keyboard navigation**
@@ -65,8 +67,8 @@ This is the minimum amount of testing required: you should **write additional te
 - **Filter out completed** to-dos from my list so that I can focus on what’s left to do
   ```js
   test('Toggling the filter hides completed tasks from the list', () => {
-  	// test goes here
-  });
+    // test goes here
+  })
   ```
 
 ## Acceptance Criteria
