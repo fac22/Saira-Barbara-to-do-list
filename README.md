@@ -13,6 +13,7 @@ Hosted on <https://fac22.github.io/Saira-Barbara-to-do-list/>
 - [ ] Testing
   - [x] set up files: test library, test-script-file
   - [x] paste test shells
+  - [ ] Write detailed tests in each user story
 - [ ] Content, Story
   - [ ] Research: How are To do lists programmed?
   - [ ] How does list, create, tick-off, delete work? &rarr; what steps involved
